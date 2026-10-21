@@ -1,4 +1,4 @@
-# Taller 3 – Bootstrap 5
+Bootstrap 5
 
 Sitio web desarrollado con **HTML y Bootstrap 5**, donde exploramos una forma más eficaz de dar diseño a una página web mediante el uso de **clases predefinidas** en lugar de escribir todo el CSS a mano.
 
